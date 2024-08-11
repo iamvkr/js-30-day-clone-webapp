@@ -1,0 +1,152 @@
+[
+    {
+        "activityName":"Day 1: Variables and Data Types",
+        "activityLink":"/Activities/day01.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day01"
+    },
+    {
+        "activityName":"Day 2: Operators",
+        "activityLink":"/Activities/day02.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day02"
+    },
+    {
+        "activityName":"Day 3: Control Structures",
+        "activityLink":"/Activities/day03.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day03"
+    },
+    {
+        "activityName":"Day 4: Loops",
+        "activityLink":"/Activities/day04.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day04"
+    },
+    {
+        "activityName":"Day 5: Functions",
+        "activityLink":"/Activities/day05.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day05"
+    },
+    {
+        "activityName":"Day 6: Arrays",
+        "activityLink":"/Activities/day06.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day06"
+    },
+    {
+        "activityName":"Day 7: Objects",
+        "activityLink":"/Activities/day07.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day07"
+    },
+    {
+        "activityName":"Day 8: ES6+ Features",
+        "activityLink":"/Activities/day08.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day08"
+    },
+    {
+        "activityName":"Day 9: DOM Manipulation",
+        "activityLink":"/Activities/day09.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day09"
+    },
+    {
+        "activityName":"Day 10: Event Handling",
+        "activityLink":"/Activities/day10.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day10"
+    },
+    {
+        "activityName":"Day 11: Promises and Async/Await",
+        "activityLink":"/Activities/day11.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day11"
+    },
+    {
+        "activityName":"Day 12: Error Handling",
+        "activityLink":"/Activities/day12.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day12"
+    },
+    {
+        "activityName":"Day 13: Modules",
+        "activityLink":"/Activities/day13.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day13"
+    },
+    {
+        "activityName":"Day 14: Classes",
+        "activityLink":"/Activities/day14.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day14"
+    },
+    {
+        "activityName":"Day 15: Closures",
+        "activityLink":"/Activities/day15.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day15"
+    },
+    {
+        "activityName":"Day 16: Recursion",
+        "activityLink":"/Activities/day16.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day016"
+    },
+    {
+        "activityName":"Day 17: Data Structures",
+        "activityLink":"/Activities/day17.html",
+        "activitySolution":""
+    },
+    {
+        "activityName":"Day 18: Algorithms",
+        "activityLink":"/Activities/day18.html",
+        "activitySolution":""
+    },
+    {
+        "activityName":"Day 19: Regular Expressions",
+        "activityLink":"/Activities/day19.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day19"
+    },
+    {
+        "activityName":"Day 20: LocalStorage and SessionStorage",
+        "activityLink":"/Activities/day20.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day20"
+    },
+    {
+        "activityName":"Day 21: LeetCode Easy",
+        "activityLink":"/Activities/day21.html",
+        "activitySolution":""
+    },
+    {
+        "activityName":" Day 22: LeetCode Medium",
+        "activityLink":"/Activities/day22.html",
+        "activitySolution":""
+    },
+    {
+        "activityName":" Day 23: LeetCode Hard",
+        "activityLink":"/Activities/day23.html",
+        "activitySolution":""
+    },
+    {
+        "activityName":"Day 24: Project 1 - Weather App",
+        "activityLink":"/Activities/day24.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day24"
+    },
+    {
+        "activityName":"Day 25: Project 2 - Movie Search App",
+        "activityLink":"/Activities/day25.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day25"
+    },
+    {
+        "activityName":"Day 26: Project 3 - Chat Application",
+        "activityLink":"/Activities/day26.html",
+        "activitySolution":"https://github.com/iamvkr/JS-30/tree/main/Day26"
+    },
+    {
+        "activityName":"Day 27: Project 4 - Task Management App",
+        "activityLink":"/Activities/day27.html",
+        "activitySolution":""
+    },
+    {
+        "activityName":"Day 28: Project 5 - E-commerce Website",
+        "activityLink":"/Activities/day28.html",
+        "activitySolution":""
+    },
+    {
+        "activityName":"Day 29: Project 6 - Social Media Dashboard",
+        "activityLink":"/Activities/day29.html",
+        "activitySolution":""
+    },
+    {
+        "activityName":"Day 30: Final Project - Social Media Dashboard with Full Features",
+        "activityLink":"/Activities/day30.html",
+        "activitySolution":""
+    }
+]
