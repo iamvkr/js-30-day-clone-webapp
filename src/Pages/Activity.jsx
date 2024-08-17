@@ -1,6 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { MyContext } from '../Context/MyContext';
+import Viewer from '../Components/Viewer';
 
 const Activity = () => {
     const pageStyle = {
@@ -83,10 +84,9 @@ const Activity = () => {
                         </div>
 
                         <div className="activities-list h-100 my-2 bg-black">
-                            {activitiesList.length > 0 && activitiesList[(actId-1)].activityLink ? <iframe src={activitiesList[(actId-1)].activityLink} width={"100%"} 
-                            height={"100%"} frameBorder="0"></iframe>
-                        :
-                        <p className='text-center pt-4'>404 Not Found</p>}
+                            {activitiesList.length > 0 && activitiesList[(actId-1)].activityLink && 
+                            <Viewer content={activitiesList[(actId-1)].content}/>
+                        }
                         </div>
                     </div>
                 </div>

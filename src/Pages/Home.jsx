@@ -4,14 +4,6 @@ import { MyContext } from '../Context/MyContext';
 
 const Home = () => {
     const {completedIndx, setcompletedIndx} = useContext(MyContext);
-    const pageStyle = {
-        container: {
-            height: "90vh"
-        },
-        leftSideBar: {
-            width: "25%"
-        }
-    }
     const [activitiesList, setactivitiesList] = useState([])
 
     const handleCheckboxChange = (e)=>{
@@ -41,6 +33,14 @@ const Home = () => {
                 setactivitiesList(data)
             })
     }, [])
+    const pageStyle = {
+        container: {
+            height: "90vh"
+        },
+        leftSideBar: {
+            width: "25%"
+        }
+    }
     return (
         <div className='container bg-dark' style={pageStyle.container}>
             <div className="d-flex gap-2">
